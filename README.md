@@ -1,2 +1,3 @@
-# calc-project
-This is a calculus project
+# Moye Moye 
+
+lol making website is easy!
